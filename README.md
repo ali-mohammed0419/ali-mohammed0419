@@ -12,7 +12,7 @@ Appium, Git, Azure, MySQL, SQLite
 Open to collaboration in quantum computing, physics simulations, and real-world problem-solving projects.
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/ali-mohammed-70272523b/) | [GitHub](https://github.com/ali-mohammed0419) | [Email](mailto:ali.mohammed0419@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ali-mohammed-70272523b/) | [Email](mailto:ali.mohammed0419@gmail.com)
 
 
 
