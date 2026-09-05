@@ -1,6 +1,6 @@
 # Ali Mohammed
 
-BS/MCS Joint Program @ UIUC. Hardware/software systems, RTL, computer architecture, embedded security
+BS/MCS joint program @ UIUC. Hardware/software systems, RTL, computer architecture, embedded security
 
 ### Focus
 
