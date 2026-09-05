@@ -29,7 +29,7 @@ FPGA/ASIC-oriented RTL, computer architecture, embedded systems, hardware/softwa
 
 ### Languages & Collaboration
 
-- English, Japanese, Arabic, Urdu
+- English, Arabic, Japanese, Urdu
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/aliimohammed/) | [Email](mailto:amoha210@illinois.edu)
