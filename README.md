@@ -10,7 +10,7 @@ FPGA/ASIC-oriented RTL, computer architecture, embedded systems, hardware/softwa
 
 **RTL / Architecture:** SystemVerilog, Verilog, RTL design, microarchitecture, datapath optimization, memory & peripheral interfaces, timing closure  
 **Verification / Debug:** Simulation, self-checking testbenches, assertions, waveform debugging, CDC awareness, FPGA bring-up  
-**Embedded / Systems:** C, C++, Python, Linux, build automation, register-level interfaces, firmware/hardware integration
+**Embedded / Systems:** C, C++, Python, Linux, build automation, register-level interfaces, firmware/hardware integration  
 **Security:** Hardware security, embedded security, firmware analysis, reverse engineering, debug interfaces  
 **Software:** JavaScript, TypeScript, React, Node.js, FastAPI, Flutter, REST APIs
 
