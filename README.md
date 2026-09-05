@@ -27,6 +27,10 @@ FPGA/ASIC-oriented RTL, computer architecture, embedded systems, hardware/softwa
 
 - CS 374 Algorithms, CS 411 Database Systems, CS 412 Data Mining, CS 424 Real-Time Systems, ECE 422 Computer Security I
 
+### Languages & Collaboration
+
+- English, Japanese, Arabic, Urdu
+
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/aliimohammed/) | [Email](mailto:amoha210@illinois.edu)
 
